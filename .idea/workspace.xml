@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed79d3b5-c267-4140-98f2-7d74400bfb89" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/arrow_functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrow_functions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert_array_simple_to_array_with_two_positions.js" beforeDir="false" afterPath="$PROJECT_DIR$/convert_array_simple_to_array_with_two_positions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example_call_back_function_wait_the_first_one.js" beforeDir="false" afterPath="$PROJECT_DIR$/example_call_back_function_wait_the_first_one.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/explode_string_only_first_caracter.js" beforeDir="false" afterPath="$PROJECT_DIR$/explode_string_only_first_caracter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/explode_url_from_get_file_name.js" beforeDir="false" afterPath="$PROJECT_DIR$/explode_url_from_get_file_name.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regular_expression_password.js" beforeDir="false" afterPath="$PROJECT_DIR$/regular_expression_password.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,11 +70,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="find_number_in_array_simple.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="find_number_in_array_simple.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/find_number_in_array_simple.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cut_string.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cut_string.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -95,6 +99,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -109,6 +118,7 @@
         <option value="$PROJECT_DIR$/explode_url_from_get_file_name.js" />
         <option value="$PROJECT_DIR$/example_call_back_function_wait_the_first_one.js" />
         <option value="$PROJECT_DIR$/find_number_in_array_simple.js" />
+        <option value="$PROJECT_DIR$/cut_string.js" />
       </list>
     </option>
   </component>
@@ -170,26 +180,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.find_number_in_array_simple.js">
+  <component name="RunManager" selected="Node.js.cut_string.js">
     <configuration name="arrow_functions.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="arrow_functions.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="cut_string.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="cut_string.js" working-dir="$PROJECT_DIR$" />
     <configuration name="example_call_back_function_wait_the_first_one.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="example_call_back_function_wait_the_first_one.js" working-dir="$PROJECT_DIR$" />
     <configuration name="explode_url_from_get_file_name.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="explode_url_from_get_file_name.js" working-dir="$PROJECT_DIR$" />
     <configuration name="find_number_in_array_simple.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="find_number_in_array_simple.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="rounding_number.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="rounding_number.js" working-dir="$PROJECT_DIR$" />
     <list>
-      <item itemvalue="Node.js.rounding_number.js" />
       <item itemvalue="Node.js.arrow_functions.js" />
       <item itemvalue="Node.js.explode_url_from_get_file_name.js" />
       <item itemvalue="Node.js.example_call_back_function_wait_the_first_one.js" />
       <item itemvalue="Node.js.find_number_in_array_simple.js" />
+      <item itemvalue="Node.js.cut_string.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.cut_string.js" />
         <item itemvalue="Node.js.find_number_in_array_simple.js" />
         <item itemvalue="Node.js.example_call_back_function_wait_the_first_one.js" />
         <item itemvalue="Node.js.explode_url_from_get_file_name.js" />
         <item itemvalue="Node.js.arrow_functions.js" />
-        <item itemvalue="Node.js.rounding_number.js" />
       </list>
     </recent_temporary>
   </component>
@@ -215,23 +225,27 @@
       <workItem from="1523670654241" duration="189000" />
       <workItem from="1523686753380" duration="2921000" />
       <workItem from="1523703466099" duration="137000" />
+      <workItem from="1524892977393" duration="4000" />
+      <workItem from="1524892997763" duration="21000" />
+      <workItem from="1524913650208" duration="782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20053000" />
+    <option name="totallyTimeSpent" value="20860000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-7" width="1233" height="735" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25083613" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960254" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32561985" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3240418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5173554" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5156794" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -252,16 +266,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/arrow_functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/explode_url_from_get_file_name.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -627,6 +631,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cut_string.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
         </state>
       </provider>
     </entry>
