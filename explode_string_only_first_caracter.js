@@ -11,4 +11,9 @@ console.log('w'+arr_str[1]);
 www.google.com
 */
 //Version 2.0
-let str_new = '云顶彩吧 （ www.imok.world ）开展网上购买彩票业务。本协议为用户在 www.imok.world 网站上进行彩票购买的事宜而订立，具体条款如下：';
+let obs = 'Obersvacion | 云顶彩吧www.google.com'
+let arr_str2 = obs.split('|');
+arr_str2 = arr_str2.map(item=>item.trim());
+console.log(arr_str2[0].trim());
+console.log(arr_str2[1].trim());
+console.log(arr_str2);
