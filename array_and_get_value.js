@@ -1,10 +1,10 @@
 let statuses = {
-    1: '等待发起',
-    2: '主动参与中',
-    3: '参与中',
-    4: '暂停',
-    5: '过期',
-    6: '已删除'
+    1: 'Colombia',
+    2: 'Canada',
+    3: 'Venezuela',
+    4: 'Ecuador',
+    5: 'USA',
+    6: 'Cambodia'
 };
 
 console.log(statuses[6]);
