@@ -1,3 +1,3 @@
 # Javascript
 
-Librerias de Javascript
+Util functions on Javascript
