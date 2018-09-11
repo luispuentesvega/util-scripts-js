@@ -1,3 +1,3 @@
 # Javascript
 
-Util functions on Javascript
+Util functions on Javascript.
