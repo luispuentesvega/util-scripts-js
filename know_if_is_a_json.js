@@ -14,4 +14,5 @@ function isJson(item) {
 }
 
 console.log(isJson('{"Luis"}'));//False
+console.log(isJson('12121'));//False
 console.log(isJson('{ "name":"John", "age":30, "car":null }'));//True
