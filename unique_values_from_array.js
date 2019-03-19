@@ -2,3 +2,4 @@ let names = [{value: 'Luis',title: 'Luis'},{value: 'Puentes',title: 'Puentes'},{
 let dup = [...new Set(names.map(item => item.value))];
 console.log(dup);
 //Output: [ 'Luis', 'Puentes' ]
+//Sample
