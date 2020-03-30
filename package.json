@@ -1,0 +1,26 @@
+{
+  "name": "util-scripts",
+  "version": "1.0.0",
+  "description": "Util functions on Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luispuentesvega/util-scripts-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luispuentesvega/util-scripts-js/issues"
+  },
+  "homepage": "https://github.com/luispuentesvega/util-scripts-js#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "momentjs": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
